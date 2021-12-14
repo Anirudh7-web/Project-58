@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 500px;
+}
+
+p {
+    color: green;
+}
+
+.menu {
+    list-style: none;
+    font-family: fantasy;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+
+}
+body {
+ font-family: 'Comic Neue', cursive;
+}
